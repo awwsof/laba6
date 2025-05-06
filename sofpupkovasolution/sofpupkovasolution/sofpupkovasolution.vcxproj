@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="D:\4 sem\комп графика\4compgraph-master\Test\glew-2.1.0\src\glew.c" />
+    <ClCompile Include="glew-2.1.0\src\glew.c" />
     <ClCompile Include="ShaderLoader.cpp" />
     <ClCompile Include="sofpupkovasolution.cpp" />
   </ItemGroup>
